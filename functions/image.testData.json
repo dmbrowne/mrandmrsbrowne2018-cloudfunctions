@@ -1,0 +1,25 @@
+{
+  "bucket": "brownes2018-wedding.appspot.com",
+  "contentDisposition": "inline; filename*=utf-8''test.png",
+  "contentType": "image/png",
+  "crc32c": "LaOnCg==",
+  "etag": "CeDut9jz5dgCFAE=",
+  "generation": "1416567827822212",
+  "id": "brownes2018-wedding.appspot.com/test.png/1416567827822212",
+  "kind": "storage#object",
+  "md5Hash": "N2rxNWE0ZGRtZmE0Y2M2NDIyOWY5NzIeNzA4YzdizjU=",
+  "mediaLink": "https: //www.googleapis.com/download/storage/v1/b/brownes2018-wedding.appspot.com/o/test.png?generation=1416567827822212&alt=media",
+  "metadata": {
+    "firebaseStorageDownloadTokens": "1cbc7278-9e5b-4d05-a5de-91a3a067a4bc"
+  },
+  "metageneration": "1",
+  "name": "test.png",
+  "resourceState": "not_exists",
+  "selfLink": "https: //www.googleapis.com/storage/v1/b/brownes2018-wedding.appspot.com/o/test.png",
+  "size": "168501",
+  "storageClass": "STANDARD",
+  "timeCreated": "2018-01-21T20: 33: 47.739Z",
+  "timeDeleted": "2018-01-21T20: 33: 58.207Z",
+  "timeStorageClassUpdated": "2018-01-21T20: 33: 47.739Z",
+  "updated": "2018-01-21T20: 33: 47.739Z"
+}
